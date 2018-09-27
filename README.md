@@ -30,7 +30,7 @@ To test that everything is configured correctly, use the following command:
 
 *wifiphisher/bin/wifiphsiher --noextensions --logging -e 'SomeESSID' -p sso_login*
 
-Check to see if a AP named 'SomeESSID' is available and the SSO page comes up after connecting. If all works, then execute the wifiPhisherAttack.py wrapper with the ESSID.lst present in the same folder. 
+Check to see if a AP named 'SomeESSID' is available and the SSO page comes up after connecting. If all works, then execute the wifiPhisherAttack.py wrapper with the ESSID.lst present in the same folder. *NOTE: Some Android Devices do not display the captive portal for SSO, to fix, request a non-cahced page such as test.com in the browser to get SSO to come up. Its a wifiPhisher issue.*
 
 # RasPi Boot
 
