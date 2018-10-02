@@ -1,7 +1,9 @@
 # Cup-O-WiFi
 Cup-O-WiFi configuration files
 
-This respository contains all the configuration files needed to perform the Cup-O-WiFi attack demo from CactusCon's 2018 talk "Weaponizing Your Pi".  The scripts were built in Kali 4.9.0-kali3-amd64 and ported to a RaspberryPi 3B with Kali linux. I did not spend alot of time creating them, they just needed to work for the demo, feel free to fix/break/upgrade.  
+This respository contains all the configuration files needed to perform the Cup-O-WiFi attack demo from CactusCon's 2018 talk "Weaponizing Your Pi". https://youtu.be/uuv68GX20R8?t=448 
+
+The scripts were built in Kali 4.9.0-kali3-amd64 and ported to a RaspberryPi 3B with Kali linux. I did not spend alot of time creating them, they just needed to work for the demo, feel free to fix/break/upgrade.  
 
 You will need the folloiwng installed: 
 
